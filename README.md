@@ -10,6 +10,7 @@ Before starting, if you do not have experience with **typescript** I highly sugg
 > @types/node
 > nodemon
 > typescript
+> moment
 
 ## Initialize the Bot
 - Run `npm run deploy`
