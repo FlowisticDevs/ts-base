@@ -1,5 +1,5 @@
 # ⚠ WARNING
-Before starting, if you do not have experience with **typescript** I highly suggest you go with someone else's base. I will not provide support if you don't have any knowledge of **typescript**!
+If you do not have experience with **typescript**, we highly suggest avoiding this base entirely. We **will not** provide support!
 
 ## Dependencies Required
 > discord.js
