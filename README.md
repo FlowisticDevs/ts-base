@@ -1,22 +1,48 @@
-# ⚠ WARNING
-If you do not have experience with **typescript**, we highly suggest avoiding this base entirely. We **will not** provide support!
+<h1 align="center">Typescript Base</h1>
+<p align="center">
+  
+  <a href="https://github.com/FlowisticDevs/ts-base/blob/main/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
+  </a>
+    
+  <a href="https://github.com/frinyvonnick/gitmoji-changelog">
+    <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
+  </a>
+</p>
 
-## Dependencies Required
-> discord.js
-> dotenv
-> fast-glob
-> moment
-> ts-node
-> @types/node
-> nodemon
-> typescript
-> moment
+> ts-base is the base to use to assist in crafting new commands with typescript.
 
-## Initialize the Bot
-- Run `npm run deploy`
-- Run `npm run start` for production **OR** run `npm run start` if you'd like to test local releases before building them.
+## Prerequisites
+- discord.js
+- dotenv
+- fast-glob
+- moment
+- ts-node
+- @types/node
+- nodemon
+- typescript
+- moment
 
-## FAQ
+```sh
+npm install
+```
+
+## Deploy 🚀
+To deploy a build, run
+```sh
+npm run deploy
+```
+To run a deployed build, run
+```sh
+npm run start
+```
+
+To run/test a local release before using it for production purposes, run
+```sh
+npm run dev
+```
+
+## Commonly Asked Questions 🤔
 What will happen to my old build?
 > Don't worry, you can find your old bases in `backup/(year-month-day-hour-minute)` format. You could push these builds back if you'd like by moving the current build to a new backup manually and dragging the old build back
 
@@ -38,6 +64,23 @@ Are there any example commands?
 
 [Windows Deployment](https://cdn.discordapp.com/attachments/1098399893946638476/1101932027097382932/image.png)
 
+## Author
+This base was entirely crafted by [@builtbyvys](https://github.com/builtbyvys)
+
+- Twitter: [@vyslix](https://twitter.com/vyslix)
+- Discord: [vys#0026](https://discord.com/users/398304429788626946)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome.<br />
+Feel free to check [issues page](https://github.com/FlowisticDevs/ts-base/issues) if you want to contribute.<br />
+[Check the contributing guide](./CONTRIBUTING.md).<br />
 
 
-Typescript bot base, made with :heart:
+## Show your support
+Please ⭐️ this repository if this project helped you!
+
+## 📝 License
+ts-base, made with 💓 by [builtbyvys](https://github.com/builtbyvys)
+This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+
