@@ -68,7 +68,7 @@ Are there any example commands?
 This base was entirely crafted by [@builtbyvys](https://github.com/builtbyvys)
 
 - Twitter: [@vyslix](https://twitter.com/vyslix)
-- Discord: [vys#0026](https://discord.com/users/398304429788626946)
+- Discord: [aelthorn](https://discord.com/users/398304429788626946)
 
 ## 🤝 Contributing
 
